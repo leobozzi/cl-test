@@ -136,7 +136,7 @@
     ],
 
     'git-repos': [
-        'https://github.com/leobozzi/cl-text.git',
+        'https://github.com/leobozzi/cl-test.git',
 
     ],
     'docker-images': [
