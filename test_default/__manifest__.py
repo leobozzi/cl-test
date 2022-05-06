@@ -27,6 +27,7 @@
     'depends': [
         # Applicaciones del Cliente
         'note',
+        'board',
 
 
     ],
