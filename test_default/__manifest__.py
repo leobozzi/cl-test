@@ -18,8 +18,8 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'test',
-    'version': '13.0.0.0.0',
+    'name': 'test1',
+    'version': '15.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
     'summary': 'Customización Odoo Test',
@@ -140,7 +140,7 @@
 
     ],
     'docker-images': [
-        'odoo lbozzi/odoo-docker-lb:13.0',
+        'odoo lbozzi/odoo-docker-lb:15.0',
         'postgres postgres:12.10-alpine',
     ]
 }
