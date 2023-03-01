@@ -18,7 +18,7 @@
 #
 # -----------------------------------------------------------------------------------
 {
-    'name': 'test1',
+    'name': 'test',
     'version': '15.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Tools',
